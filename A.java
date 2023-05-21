@@ -1,4 +1,4 @@
-/*Rafael Brunini Pereira 202120488 */
+
 public class A {
     private int a1;
     private float a2;
@@ -26,4 +26,9 @@ public class A {
     public void MA2(){
         System.out.println("MA2");
     }
+
+    public void MA3(){
+        System.out.println( "Alteração a classe A partir do clone");
+    }
 }
+/*Rafael Brunini Pereira 202120488 */
